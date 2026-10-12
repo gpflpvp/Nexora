@@ -1,0 +1,11 @@
+*.keystore
+*.jks
+*.pem
+*.p12
+*.env
+.env.*
+!*.env.example
+*.apk
+*.aab
+*.zip
+.DS_Store
